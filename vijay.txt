@@ -1,6 +1,0 @@
-Hi Vijay, I have made separate branches for everyone so that you guys get some privacy to work with your files in your branch or I can say "TIMELINE".
-
-So once you are ready to submit it to the actual branch for the upgrade, feel free to 'merge' after having my permission.
-
-Yours Friendly,
-Tejas Ranjith
