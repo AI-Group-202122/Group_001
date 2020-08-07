@@ -1,7 +1,8 @@
-for commiting :
+rules for commiting :
 deleted = D
 modified = M
 added = A (visible only after putting in to the commit (replaces U))
 untracked = U (visible only before putting in to the commit)
  if nothing,
     type null.null(0)
+A(file.py) D(null.null(0)) M(index.html) U(file.py)
